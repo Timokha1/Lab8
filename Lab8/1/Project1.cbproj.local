@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.973,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Ік-42\Unit5.cpp=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Ік-42\Unit5.dfm=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Ік-42\Project1.cbproj=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Ік-42\Project1PCH1.h=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Ік-42\Unit5.h=C:\Users\Duck\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+  </Transactions>
+</BorlandProject>
